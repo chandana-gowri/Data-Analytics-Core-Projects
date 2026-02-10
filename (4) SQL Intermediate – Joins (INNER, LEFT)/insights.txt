@@ -1,0 +1,4 @@
+
+1. Office Supplies category generates the highest number of orders, indicating strong repeat demand.
+2. A small set of products contributes a large share of total revenue, highlighting key high-performing SKUs.
+3. Customers with no orders identified via LEFT JOIN represent an opportunity for targeted re-engagement campaigns.
