@@ -1,4 +1,4 @@
-# Sales Data Analysis using SQL (Task 3)
+# Sales Data Analysis using SQL
 
 ## Aim
 To analyze sales data using SQL queries and generate summary results for business insights.
