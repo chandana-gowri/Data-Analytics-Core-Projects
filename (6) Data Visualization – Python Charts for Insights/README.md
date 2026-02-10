@@ -1,4 +1,4 @@
-# Sales Data Visualization (Task 6)
+# Sales Data Visualization 
 
 ## Aim
 To perform data visualization on a sales dataset and understand sales trends using different graphical representations.
